@@ -1,5 +1,1 @@
-var app = angular.module('app', function() {
-
-
-	
-})
+var app = angular.module('quoteBook', []);
